@@ -10,4 +10,6 @@
  #position_taken? in lib/position_taken.rb returns false if the board has nil in the index
  
  
+ #position_taken? in lib/position_taken.rb returns true if the board has a value of "X" or "O" in the index
+ 
  
